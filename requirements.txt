@@ -1,0 +1,7 @@
+fastapi==0.115.0
+uvicorn==0.30.6
+anthropic==0.34.0
+openai==1.45.0
+notion-client==2.2.1
+httpx==0.27.2
+python-dotenv==1.0.1
